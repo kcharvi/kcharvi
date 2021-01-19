@@ -15,7 +15,7 @@
 <br>
 
 <a href="https://www.java.com/en/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/java.svg" width=60></a> 
-<a href="https://www.python.org/"><img src="https://github.com/kcharvi/kcharvi/blob/master/assests/Languages/python.svg" width=60></a>
+<a href="https://www.python.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/python.svg" width=60></a>
 <a href="https://matlab.mathworks.com/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/matlab.svg" width=60></a>
 <a href="https://isocpp.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/c%2B%2B.svg" width=60></a>
 <a href="https://html.com/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/html.svg" width=60></a>
