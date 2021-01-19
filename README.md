@@ -18,7 +18,7 @@
 <a href="https://www.python.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/python.svg" width=60></a>
 <a href="https://matlab.mathworks.com/"><img src="https://uk.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.medium.gif/1469941373397.gif" width=60></a>
 <a href="https://isocpp.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/c%2B%2B.svg" width=60></a>
-<a href="https://html.com/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/html.svg" width=60></a>
+<a href="https://www.r-project.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/r.svg" width=60></a>
 
 
 
