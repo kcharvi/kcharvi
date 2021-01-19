@@ -33,6 +33,17 @@
 <a href="https://p5js.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/p5jf.png" width=60></a> 
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/adobexd.png" width=60></a> 
 
+### Connect ✨
+
+
+<p align="center">
+   <a href="https://www.hackerrank.com/SVijayB">
+    <img alt="HackerRank" width="22px" src="https://github.com/kcharvi/kcharvi/blob/main/assests/hackerrank.png" />
+  </a>
+
+  </p>
+
+
 
 
 
