@@ -15,5 +15,5 @@
 <br>
 
 |<a href="https://www.java.com/en/"><img src="https://github.com/kcharvi/kcharvi/blob/master/assests/Languages/java.svg" width=60></a> |
-<a href="https://www.python.org/"><img src="https://github.com/kcharvi/kcharvi/blob/master/assests/Languages/python.svg" width=60></a>|  |
+<a href="https://www.python.org/"><img src="https://github.com/kcharvi/kcharvi/blob/master/assests/Languages/python.svg" width=60></a>|  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
