@@ -36,13 +36,25 @@
 ### Connect ✨
 
 
-<p align="center">
-   <a href="https://www.hackerrank.com/SVijayB">
-    <img alt="HackerRank" width="22px" src="https://github.com/kcharvi/kcharvi/blob/main/assests/hackerrank.png" />
+<p >
+  <a href="mailto:kcharvi01@gmail.com">
+    <img alt="Gmail" width="25" src="https://github.com/kcharvi/kcharvi/blob/main/assests/Connect/Gmail-logo.png" />
   </a>
 
-  </p>
+  <a href="https://www.linkedin.com/in/k-charvi/">
+    <img alt="Linkedin" width="25" src="https://github.com/kcharvi/kcharvi/blob/main/assests/Connect/linkedin.png" />
+  </a>
 
+   <a href="https://www.instagram.com/kcharvi020/">
+    <img alt="Instagram" width="25" src="https://github.com/kcharvi/kcharvi/blob/main/assests/Connect/insta.jpg" />
+  </a>
+
+  <a href="https://www.hackerrank.com/SVijayB">
+    <img alt="HackerRank" width="25" src="https://github.com/kcharvi/kcharvi/blob/main/assests/Connect/hr.png" />
+  </a>
+
+ 
+</p>
 
 
 
