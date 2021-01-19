@@ -13,4 +13,7 @@
 ### Languages 💻
 
 <br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+|<a href="https://www.java.com/en/"><img src="https://github.com/kcharvi/kcharvi/blob/master/assests/Languages/java.svg" width=60></a> |
+<a href="https://www.python.org/"><img src="https://github.com/kcharvi/kcharvi/blob/master/assests/Languages/python.svg" width=60></a>|  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
