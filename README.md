@@ -27,11 +27,10 @@
 
 <a href="https://code.visualstudio.com/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/Vscode.svg" width=60></a> 
 <a href="https://processing.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/Processing_3.png" width=60></a> 
-<a href="https://netbeans.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/netbeans.png" width=80></a> 
+<a href="https://netbeans.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/netbeans.png" width=60></a> 
 <a href="https://www.arduino.cc/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/arduino.jpg" width=60></a> 
-
 <a href="https://www.raspberrypi.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/raspberry.png" width=60></a> 
-<a href="https://p5js.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/p5jf.png" width=80></a> 
+<a href="https://p5js.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/p5jf.png" width=60></a> 
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/adobexd.png" width=60></a> 
 
 
