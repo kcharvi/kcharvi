@@ -45,10 +45,6 @@
     <img alt="Linkedin" width="25" src="https://github.com/kcharvi/kcharvi/blob/main/assests/Connect/linkedin.png" />
   </a>
 
-   <a href="https://www.instagram.com/kcharvi020/">
-    <img alt="Instagram" width="25" src="https://github.com/kcharvi/kcharvi/blob/main/assests/Connect/insta.jpg" />
-  </a>
-
   <a href="https://www.hackerrank.com/kcharvi01">
     <img alt="HackerRank" width="25" src="https://github.com/kcharvi/kcharvi/blob/main/assests/Connect/hr.png" />
   </a>
