@@ -2,7 +2,7 @@
 
 - 😄 Inquisitive and observant attitude towards learning
 - 🌱 Constantly building my profile
-- 👯 I’m looking for Machine Learning projects
+- 🔎 I’m looking for Machine Learning projects
 - 🤔 Need some help in Web development
 - 💬 Ask me about JAVA programming and Problem Solving 
 - ⚡ Fun fact: Spotify Playing 🎧
