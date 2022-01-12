@@ -32,7 +32,7 @@ Hobbies: 🎧 ✈ 🏸
 <a href="https://p5js.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/p5jf.png" width=20></a> 
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/adobexd.png" width=20></a> 
 <a href="https://keras.io/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/keras.png" width=20></a>
-<a href="https://numpy.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/keras.png" width=20></a>
+<a href="https://numpy.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/numpy.svg" width=20></a>
 
 ![Charvi's github stats](https://github-readme-stats.vercel.app/api?username=kcharvi&hide=contribs,prs&show_icons=true&theme=radical)
 
