@@ -31,7 +31,7 @@ Hobbies: 🎧 ✈ 🏸
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/adobexd.png" width=30></a> 
 <a href="https://keras.io/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/keras.png" width=30></a>
 <a href="https://numpy.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/NumPy.svg" width=30></a>
-<a href="https://angularjs.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/angularjs.png" width=30></a>
+<a href="https://angularjs.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/angularjs.png" width=60></a>
 <a href="https://www.arduino.cc/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/Arduino_Logo.svg_.jpg" width=40></a> 
 <a href="https://www.raspberrypi.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/raspberry.png" width=30></a> 
 
