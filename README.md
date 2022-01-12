@@ -36,7 +36,7 @@ Hobbies: 🎧 ✈ 🏸
 
 ![Charvi's github stats](https://github-readme-stats.vercel.app/api?username=kcharvi&hide=contribs,prs&show_icons=true&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kcharvi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kcharvi&repo=github-readme-stats)](https://github.com/kcharvi/github-readme-stats)
 
 
 ### Connect ✨
