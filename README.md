@@ -16,25 +16,26 @@ Hobbies: 🎧 ✈ 🏸
 <a href="https://isocpp.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/c%2B%2B.svg" width=30></a>
 <a href="https://www.r-project.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/r.svg" width=30></a>
 <a href="https://html.com/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/html.png" width=30></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/css.png" width=35></a>
-<a href="https://www.w3schools.com/sql/sql_intro.asp"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/sql.png" width=30></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/css.png" width=20></a>
+<a href="https://www.w3schools.com/sql/sql_intro.asp"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Languages/sql.png" width=40></a>
 <br>
 
-### Tools 🚀 
+### Tools/ Libraries 🚀 
 
 <a href="https://developer.android.com/studio"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/icon.png" width=30></a> 
 <a href="https://flutter.dev/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/flutter.png" width=30></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/Vscode.svg" width=30></a> 
 <a href="https://processing.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/Processing_3.png" width=30></a> 
 <a href="https://netbeans.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/netbeans.png" width=30></a> 
-<a href="https://www.arduino.cc/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/Arduino_Logo.svg_.jpg" width=30></a> 
-<a href="https://www.raspberrypi.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/raspberry.png" width=30></a> 
 <a href="https://p5js.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/p5jf.png" width=30></a> 
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/adobexd.png" width=30></a> 
 <a href="https://keras.io/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/keras.png" width=30></a>
-<a href="https://numpy.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/numpy.svg" width=30></a>
+<a href="https://numpy.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/NumPy.svg" width=30></a>
+<a href="https://angularjs.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/angularjs.svg" width=30></a>
+<a href="https://www.arduino.cc/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/Arduino_Logo.svg_.jpg" width=40></a> 
+<a href="https://www.raspberrypi.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/raspberry.png" width=30></a> 
 
-![Charvi's github stats](https://github-readme-stats.vercel.app/api?username=kcharvi&hide=contribs,prs&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcharvi&layout=compact&theme=dracula)](https://github.com/kcharvi/github-readme-stats)
 
 
 ### Connect ✨
