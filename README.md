@@ -1,14 +1,10 @@
 ### Hi there! I am Charvi 👋
 
 - 😄 Inquisitive and observant attitude towards learning
-- 🌱 Constantly building my profile
-- 🔎 I’m looking for Machine Learning projects
-- 🤔 Need some help in Web development
-- 💬 Ask me about JAVA programming and Problem Solving 
-- ⚡ Fun fact: Spotify Playing 🎧
+- 🌱 Constantly building my profile.
 
-
-<br>
+Hobbies: 🎧 ✈ 🏸     
+<hr> 
 
 ### Languages 💻
 
@@ -25,6 +21,7 @@
 
 ### Tools 🚀 
 
+<a href="https://developer.android.com/studio"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/icon.png" width=60></a> 
 <a href="https://code.visualstudio.com/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/Vscode.svg" width=60></a> 
 <a href="https://processing.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/Processing_3.png" width=60></a> 
 <a href="https://netbeans.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/netbeans.png" width=60></a> 
@@ -32,6 +29,12 @@
 <a href="https://www.raspberrypi.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/raspberry.png" width=60></a> 
 <a href="https://p5js.org/"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/p5jf.png" width=60></a> 
 <a href="https://www.adobe.com/in/products/xd.html"><img src="https://github.com/kcharvi/kcharvi/blob/main/assests/Tools/adobexd.png" width=60></a> 
+
+
+![Charvi's github stats](https://github-readme-stats.vercel.app/api?username=kcharvi&hide=contribs,prs&show_icons=true&theme=radical)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kcharvi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect ✨
 
