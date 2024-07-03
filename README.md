@@ -23,7 +23,7 @@ I am a 🎓Graduate Student pursuing MS in Computer Science and Engineering from
    <img src="https://raw.githubusercontent.com/kcharvi/kcharvi/main/assests/Connect/iconmonstr-email-10.svg" alt="Mail" width="30" height="30">
 </a>
 
-<a href="https://www.linkedin.com/in/yourlinkedinprofile">
+<a href="https://www.linkedin.com/in/k-charvi">
    <img src="https://raw.githubusercontent.com/kcharvi/kcharvi/main/assests/Connect/iconmonstr-linkedin-3.svg" alt="LinkedIn" width="30" height="30">
 </a>
 
