@@ -14,8 +14,8 @@ I am a 🎓Graduate Student pursuing MS in Computer Science and Engineering from
 - Software Development and Testing
 - Natural Language Processing (NLP)
 
-##### Check out my <a style = "color: hsl(var(--hue-color), 89%, 60;" href="https://kcharvi.github.io/">Portfolio Website</a> to know more about my Career path, Projects and Contributions.
-##### Learn about my Coding skills with <a style = "color: hsl(var(--hue-color), 89%, 60;" href="https://leetcode.com/u/Charvi_K/">LeetCode Profile</a>
+#### Check out my <a style = "color: hsl(var(--hue-color), 89%, 60;" href="https://kcharvi.github.io/">Portfolio Website</a> to know more about my Career path, Projects and Contributions.
+#### Learn about my Coding skills with <a style = "color: hsl(var(--hue-color), 89%, 60;" href="https://leetcode.com/u/Charvi_K/">LeetCode Profile</a>
 <hr>
 
 #### Connect ✨
