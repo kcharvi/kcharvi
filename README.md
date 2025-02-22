@@ -5,7 +5,7 @@
    
 <hr> 
 
-I am a 🎓Graduate Student pursuing MS in Computer Science and Engineering from University at Buffalo. I'm into using AI and ML to build meaningful solutions that helps people. I've been awarded with the 🏅Chancellor's Gold Medal for the Best Outgoing Student at VIT, India.
+I'm into using AI and ML to build meaningful solutions that helps people. I've been awarded with the 🏅Chancellor's Gold Medal for the Best Outgoing Student during bachelors study.
 
 #### My Interests:
 - Machine Learning (ML)
@@ -19,10 +19,6 @@ I am a 🎓Graduate Student pursuing MS in Computer Science and Engineering from
 <hr>
 
 #### Connect ✨
-<a href="mailto:kcharvi01@gmail.com">
-   <img src="https://raw.githubusercontent.com/kcharvi/kcharvi/main/assests/Connect/iconmonstr-email-10.svg" alt="Mail" width="30" height="30">
-</a>
-
 <a href="https://www.linkedin.com/in/k-charvi">
    <img src="https://raw.githubusercontent.com/kcharvi/kcharvi/main/assests/Connect/iconmonstr-linkedin-3.svg" alt="LinkedIn" width="30" height="30">
 </a>
