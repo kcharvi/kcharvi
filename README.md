@@ -22,5 +22,3 @@ I'm into using AI and ML to build meaningful solutions that helps people. I've b
 <a href="https://www.linkedin.com/in/k-charvi">
    <img src="https://raw.githubusercontent.com/kcharvi/kcharvi/main/assests/Connect/iconmonstr-linkedin-3.svg" alt="LinkedIn" width="30" height="30">
 </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kcharvi&theme=meta-light&border_radius=20&card_width=500)](https://git.io/streak-stats)
