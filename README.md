@@ -5,7 +5,6 @@
    
 <hr> 
 
-[![Visits Badge](https://badges.pufler.dev/visits/kcharvi/kcharvi)](https:github.com/kcharvi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/k-charvi/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://kcharvi.github.io/)
 
